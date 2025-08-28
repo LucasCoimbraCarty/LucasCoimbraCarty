@@ -1,4 +1,4 @@
-### Salve...normalmente me chamam Carty
+### Carty...Apenas Carty
 
 <h2>Sistemas Operacionais</h2>
   <div style="display: inline_block">
@@ -42,7 +42,7 @@
     <li><img alt='Icon-Brazil' height='25' width='30' src='https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1e7-1f1f7.svg'> + <img alt='Icon-Brazil' height='25' width='30' src='https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1f5-1f1ea.svg'></li>
     <li><img alt='Icon-Portuguese' height='25' width='30' src='https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1f5-1f1f9.svg'>, <img alt='Icon-Spanish' height='25' width='30' src='https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f1ea-1f1f8.svg'> & <img alt='Icon-English' height='25' width='30' src='https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/svg/1f3f4-e0067-e0062-e0065-e006e-e0067-e007f.svg'> </li>
     <li>Católico Romano ✝️</li>
-    <li>Deveria ter mais frequência de leitura (5/Ano)</li>
+    <li>Viciado em falar mal das coisas</li>
   </ul>
   <p>"Nada de novo abaixo do Sol.."</p>
 </div>
