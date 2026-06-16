@@ -1,6 +1,6 @@
 # Hey, Carty here.
 
-<>
+<img alt='banner' src='https://github.com/LucasCoimbraCarty/LucasCoimbraCarty/blob/main/Banner/banner_1.gif?raw=true'>
 
 <details>
   <summary><h3>About Me</h3></summary>
