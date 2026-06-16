@@ -1,5 +1,5 @@
 # Hey, Carty here.
-**`Software enginerring & Editor`**
+
 
 <details>
   <summary><h3>About Me</h3></summary>
@@ -19,6 +19,12 @@
     <img alt='Icon-Js' width="40px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg'/>
     <img alt='Icon-HTML' width="40px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg'/>
     <img alt='Icon-Css' width="40px" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg'/>
+</div>
+
+#
+
+<div align="center">
+    <h3>Database</h3>
     <img alt='Icon-MongoDb' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
     <img alt='Icon-MySql' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
     <img alt='Icon-SqlServer' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
@@ -27,11 +33,14 @@
 #
 
 <div align="center">
-    <h3>Software Tools</h3>
+    <h3>Software Tools & Systems</h3>
     <img alt='Icon-Vscode' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
     <img alt='Icon-Pycharm' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
     <img alt='Icon-Figma' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
     <img alt='Icon-Bootstrap' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
+    <img alt='Icon-Github' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+    <img alt='Icon-Git' width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img alt='Icon-Windows' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 </div>
 
 #
