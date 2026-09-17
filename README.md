@@ -35,16 +35,13 @@
 #
 
 <div align="center">
-    <h3>Software Tools & Systems</h3>
-    <img alt='Icon-Vscode' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-    <img alt='Icon-Pycharm' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
-    <img alt='Icon-Figma' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+    <h3>Library & Framework</h3>
     <img alt='Icon-Bootstrap' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"/>
-    <img alt='Icon-Github' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-    <img alt='Icon-Git' width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-    <img alt='Icon-Windows' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+    <img alt='Icon-React' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> 
+    <img alt='Icon-TailWind' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> 
+    <img alt='Icon-Git' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </div>
-
+          
 #
 
 <div align="center">
@@ -55,6 +52,15 @@
     <img alt='Icon-Gimp' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg"/>
     <img alt='Icon-Blender' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"/>
     <img alt='Icon-Canva' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+    <img alt='Icon-Figma' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+</div>
+
+#
+
+<div align="center">
+    <h3>Systems</h3>
+    <img alt='Icon-Windows' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+    <img alt='Icon-Kali' width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" /> 
 </div>
 
 ---
