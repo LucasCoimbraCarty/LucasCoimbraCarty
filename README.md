@@ -4,11 +4,9 @@
 
 <details>
   <summary><h3>About Me</h3></summary>
-  <p>I know, I should write something there, but to be realistic, i don´t have anything to say...So a wrote this</p>
+  <p>I know I should write something there, but I honestly have nothing to say, so I wrote this instead.</p>
   <ul>
     <li>English, Spanish and Portuguese</li>
-    <li>Professional Ragebaiter</li>
-    <li>Games and on ocassion anime</li>
   </ul>
 </details>
 
